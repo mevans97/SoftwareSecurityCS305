@@ -1,6 +1,9 @@
 # SoftwareSecurityCS305
 Final project from cs305
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+
+The client was artemis financial. As they modernize their web interface, they sought out a third party (Me) to implement modern software security to their application
+
 What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 What part of the vulnerability assessment was challenging or helpful to you?
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
